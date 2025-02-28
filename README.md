@@ -16,12 +16,12 @@
 
 ### Página de Login
 
-- **Credenciales incorrectas**
+### **Credenciales incorrectas**
   Captura de la página de login cuando el usuario ingresa credenciales incorrectas. Muestra un mensaje de error: "Credenciales incorrectas. Inténtelo de nuevo.
   
 ![Captura de la página de login cuando el usuario ingresa credenciales incorrectas. Muestra un mensaje de error: "Credenciales incorrectas. Inténtelo de nuevo."](./screenshots/credencialesIncorrectas.png)
 
-- **Credenciales correctas**
+### **Credenciales correctas**
   Captura de la página de login cuando el usuario ingresa credenciales correctas. Muestra un mensaje de bienvenida: "Credenciales correctas. Bienvenido!", y le redirige a la pagina index.html
   
 ![Captura de la página de login cuando el usuario ingresa credenciales correctas. Muestra un mensaje de bienvenida: "Credenciales correctas. Bienvenido!", y le redirige a la pagina index.html](./screenshots/credencialesCorrectas.png)
