@@ -27,20 +27,28 @@
 ![Captura de la página de login cuando el usuario ingresa credenciales correctas. Muestra un mensaje de bienvenida: "Credenciales correctas. Bienvenido!", y le redirige a la pagina index.html](./screenshots/credencialesCorrectas.png)
 
 ### Página index (Gestión de tareas)
+
 Captura de la página principal de la aplicación, donde se muestra una lista de tareas con su estado (Pendiente, En progreso, Completada) y la fecha de creación.También se observa un botón para agregar nuevas tareas y un campo donde puedes consultar las tareas por el nombre del estado
+
 ![Captura de la página principal de la aplicación, donde se muestra una lista de tareas con su estado (Pendiente, En progreso, Completada) y la fecha de creación.También se observa un botón para agregar nuevas tareas y un campo donde puedes consultar las tareas por el nombre del estado](./screenshots/interfazTareas.png)
 
 ### Buscar Tareas por estado
-- **Buscando Tareas con estado "Completada"**
+
+### **Buscando Tareas con estado "Completada"**
 Captura de la interfaz de búsqueda de tareas cuando se filtra por el estado "Completada". Muestra solo las tareas que tienen este estado
+
 ![Captura de la interfaz de búsqueda de tareas cuando se filtra por el estado "Completada". Muestra solo las tareas que tienen este estado](./screenshots/interfazBuscarTareas1.png)
 
-- **Buscando Tareas con estado "Progreso"**
+### **Buscando Tareas con estado "Progreso"**
+
 Captura de la interfaz de búsqueda de tareas cuando se filtra por el estado "En progreso". Muestra solo las tareas que están en progreso
+
 ![Captura de la interfaz de búsqueda de tareas cuando se filtra por el estado "En progreso". Muestra solo las tareas que están en progreso](./screenshots/interfazBuscarTareas2.png)
 
 ### Cerrar sesión
+
 Captura del menú desplegable del usuario, donde se muestra la opción "Cerrar sesión". Al hacer clic en esta opción, el usuario es redirigido a la página de login, y su sesión se cierra correctamente.
+
 ![Captura del menú desplegable del usuario, donde se muestra la opción "Cerrar sesión". Al hacer clic en esta opción, el usuario es redirigido a la página de login, y su sesión se cierra correctamente.](./screenshots/cerrarSesion.png)
 
 ---
