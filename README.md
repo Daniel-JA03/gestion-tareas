@@ -15,11 +15,16 @@
 ## Capturas de pantalla 📸
 
 ### Página de Login
-- **Credenciales correctas**
-![Captura de la página de login cuando el usuario ingresa credenciales correctas. Muestra un mensaje de bienvenida: "Credenciales correctas. Bienvenido!", y le redirige a la pagina index.html](./screenshots/credencialesCorrectas.png)
 
 - **Credenciales incorrectas**
+  Captura de la página de login cuando el usuario ingresa credenciales incorrectas. Muestra un mensaje de error: "Credenciales incorrectas. Inténtelo de nuevo.
+  
 ![Captura de la página de login cuando el usuario ingresa credenciales incorrectas. Muestra un mensaje de error: "Credenciales incorrectas. Inténtelo de nuevo."](./screenshots/credencialesIncorrectas.png)
+
+- **Credenciales correctas**
+  Captura de la página de login cuando el usuario ingresa credenciales correctas. Muestra un mensaje de bienvenida: "Credenciales correctas. Bienvenido!", y le redirige a la pagina index.html
+  
+![Captura de la página de login cuando el usuario ingresa credenciales correctas. Muestra un mensaje de bienvenida: "Credenciales correctas. Bienvenido!", y le redirige a la pagina index.html](./screenshots/credencialesCorrectas.png)
 
 ### Página index (Gestión de tareas)
 ![Captura de la página principal de la aplicación, donde se muestra una lista de tareas con su estado (Pendiente, En progreso, Completada) y la fecha de creación.También se observa un botón para agregar nuevas tareas y un campo donde puedes consultar las tareas por el nombre del estado](./screenshots/interfazTareas.png)
